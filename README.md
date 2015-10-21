@@ -8,7 +8,7 @@ The OG pixel otter is in the file 16x16. If you want to make it larger while mai
 Appropriate use
 ---------------
 
-Pixelotter should be used in accordance with the [CSUMB publishing guidelines][https://csumb.edu/publishing].
+Pixelotter should be used in accordance with the [CSUMB publishing guidelines](https://csumb.edu/publishing).
 
 **Pixelotter is**:
 
