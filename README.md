@@ -5,6 +5,8 @@ The official mascot of the Cal State Monterey Bay website. Pixelotter started as
 
 The OG pixel otter is in the file 16x16. If you want to make it larger while maintaining the pixely-ness, you need to resize it in increments of 16, and if you're using Photoshop resize using "Nearest Neighbor."
 
+For vector, please one of the EPS files available. For the original, please use the six colors version.
+
 Appropriate use
 ---------------
 
